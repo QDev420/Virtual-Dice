@@ -10,7 +10,7 @@ function p2randomNum() {
 
 function imageChanger(ranNum, img) {
     if (ranNum === 1) {
-        document.getElementsByClassName(img)[0].src="/dice.png"
+        document.getElementsByClassName(img)[0].src="/dice1.png"
     }
     else if (ranNum === 2) {
         document.getElementsByClassName(img)[0].src="/dice2.png"
