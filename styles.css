@@ -1,0 +1,61 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}  
+
+#myButton {
+  width: 10rem;
+  height: 3rem;
+  border-radius: 50%;
+  font-size: 1rem;
+  background-color: #4ECCA3;
+  box-shadow: 5px 3px #232931;
+  font-family: 'Lobster', cursive;
+}
+
+#myButton:active {
+  width: 10rem;
+  height: 3rem;
+  border-radius: 50%;
+  font-size: 1rem;
+  background-color: #393E46;
+  font-family: 'Lobster', cursive;
+  color: white
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 40%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
